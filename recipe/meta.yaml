@@ -37,7 +37,7 @@ about:
   license_family: BSD
   summary: Python with the SmartyPants
   dev_url: https://github.com/leohemsted/smartypants.py
-  doc_url: https://pythonhosted.org/smartypants/
+  doc_url: https://smartypants.readthedocs.io
 
 extra:
   recipe-maintainers:
