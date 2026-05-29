@@ -31,7 +31,7 @@ test:
     - smartypants
 
 about:
-  home: https://github.com/leohemsted/smartypants.py
+  home: https://github.com/justinmayer/smartypants.py
   license_file: COPYING
   license: BSD-3-Clause
   license_family: BSD
