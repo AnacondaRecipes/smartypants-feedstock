@@ -36,7 +36,7 @@ about:
   license: BSD-3-Clause
   license_family: BSD
   summary: Python with the SmartyPants
-  dev_url: https://github.com/leohemsted/smartypants.py
+  dev_url: https://github.com/justinmayer/smartypants.py
   doc_url: https://smartypants.readthedocs.io
 
 extra:
