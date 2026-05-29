@@ -26,7 +26,7 @@ test:
   requires:
     - pip
   commands:
-    - python -m pip check
+    - pip check
   imports:
     - smartypants
 
